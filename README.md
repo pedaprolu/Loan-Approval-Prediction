@@ -38,8 +38,6 @@ This project aims to predict whether a loan application will be approved based o
    - Precision, Recall, F1-score
    - ROC-AUC Curve
 
-5. **Best Model**
-   - **XGBoost** achieved the highest accuracy of **XX%**
 
 ---
 
