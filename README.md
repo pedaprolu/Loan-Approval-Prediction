@@ -61,9 +61,3 @@ This project aims to predict whether a loan application will be approved based o
 - `README.md` – Project documentation
 
 ---
-
-## 🚀 How to Run
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/loan-approval-prediction.git
-cd loan-approval-prediction
