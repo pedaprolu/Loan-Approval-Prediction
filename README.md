@@ -49,15 +49,8 @@ This project aims to predict whether a loan application will be approved based o
 - Matplotlib, Seaborn
 - Scikit-learn
 - XGBoost
-- Imbalanced-learn
 - Jupyter Notebook
 
----
 
-## 📂 Repository Contents
-- `notebooks/` – Jupyter notebook with complete analysis
-- `reports/` – Project report & presentation
-- `requirements.txt` – Python dependencies
-- `README.md` – Project documentation
 
 ---
