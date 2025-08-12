@@ -51,10 +51,10 @@ This project aims to predict whether a loan application will be approved based o
 - XGBoost
 - Jupyter Notebook
 
-**📈 Model Evaluation
+📈 Model Evaluation
 Model performance was evaluated using multiple metrics to ensure robustness and reliability:
 
-**Accuracy
+Accuracy
 
 Proportion of correctly predicted instances out of the total.
 
@@ -74,7 +74,7 @@ Measures the ability of the model to distinguish between classes.
 
 Higher values indicate better classification performance.
 
-**✅ Conclusion
+✅ Conclusion
 The project successfully developed and evaluated multiple machine learning models to predict loan approval outcomes.
 Key insights include:
 
