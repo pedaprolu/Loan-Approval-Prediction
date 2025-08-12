@@ -7,7 +7,6 @@ This project aims to predict whether a loan application will be approved based o
 ---
 
 ## 📊 Dataset
-- **Source:** [Mention source if public / Kaggle link]
 - **Rows:** ~X
 - **Columns:** X features + target variable (`Loan_Status`)
 - **Target Variable:** 
